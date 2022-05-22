@@ -1,0 +1,5 @@
+hello this is vishnu gupta of national instituet of technology durgapur department of Electrical Engineering in the sense that I will do beter in the upcomig years .
+the topics to learn in today is to :
+how to use vim exit enter edit save etc.
+how to use git and github and use in the desire section in the  current folder .
+some command are not working in hype check in the desred location in the good way.
